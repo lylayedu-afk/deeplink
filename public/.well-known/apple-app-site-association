@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["SX2A7D3K79.com.setec.deeplinkApp"],
+        "components": [
+          {
+            "/": "/product/*"
+          }
+        ]
+      }
+    ]
+  }
+}
